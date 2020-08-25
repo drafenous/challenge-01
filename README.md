@@ -6,7 +6,7 @@ Mais informações no twitter http://twitter.com/rodrigo_draf ou via issues.
 ## Regras
 - Quem pode participar?
   - Todos os que chegarem à este repositório no github de alguma forma.
-  - Todos que submeterem o seguindo as intruções abaixo.
+  - Todos que submeterem o cadastro seguindo as devidas intruções.
   - O desenvolvimento em time é permitido, porém você estará concorrendo com outros times para o balanceamento de pontuações.
 - Você deve seguir a estrutura base estabelecida neste challenge, utilizando as regras abaixo.
   - Os itens marcados com **"CBC"** (_Can be changed_) no final, não são opicionais, e sim que podem ser alterados por outro similar ao gosto do concorrente.
