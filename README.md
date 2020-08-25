@@ -16,6 +16,8 @@ Mais informações no twitter http://twitter.com/rodrigo_draf ou via issues.
   - O challenge deverá ser desenvolvido em JavaScript utilizando NodeJS seguido os padrões do ECMA Script. (Portanto outras linguagens como PHP, C, Java e etc, não são permitidas, mas vocês poderá utilizar as frameworks ou libs como React, Angular, Vue, AdonisJS e outras, incluindo suas frameworks derivadas como NextJS, NuxtJS e outras).
   - TypeScript é obrigatório.
   - O repositório no GitHub deve seguir a arquitetura "monorepo".
+  
+(Outras regras ainda em desenvolvimento)
 
 ## Critérios avaliativos
 Será avaliado a sua "qualidade de código" utilizando os seguintes critérios:
@@ -24,12 +26,14 @@ Será avaliado a sua "qualidade de código" utilizando os seguintes critérios:
 - Utilização dos padrões de ECMAScript.
 - Qualidade de testes unitários.
 - Qualidade de testes E2E.
+
 (Outros critérios ainda em desenvolvimento)
 ---
 # Ambientes
 ## DevOps
 - GitHub*
 - Heroku*
+
 (Outros critérios ainda em desenvolvimento)
 
 ## UI/UX
@@ -48,6 +52,7 @@ Será avaliado a sua "qualidade de código" utilizando os seguintes critérios:
 - Babel*
 - JWT*
 - Axios*
+
 (Outros critérios ainda em desenvolvimento)
 
 ## BFF API Server
@@ -55,6 +60,7 @@ Será avaliado a sua "qualidade de código" utilizando os seguintes critérios:
 - Swagger*
 - Axios*
 - CORS Policy*
+
 (Outros critérios ainda em desenvolvimento)
 
 ## Back-End
@@ -66,10 +72,12 @@ Será avaliado a sua "qualidade de código" utilizando os seguintes critérios:
 - GraphQL*
 - MongoDB - CBC*
 - Nodemailer - CBC*
+
 (Outros critérios ainda em desenvolvimento)
 
 ## Test / Quality Assurance
 - Cypress - CBC*
+
 (Outros critérios ainda em desenvolvimento)
 ---
 
