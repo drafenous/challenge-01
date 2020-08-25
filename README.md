@@ -118,6 +118,7 @@ No Challenge 01, será desenvolvido a nossa própria plataforma de challenges, o
 - Cypress - CBC*
 
 (Outros critérios ainda em desenvolvimento)
+
 ---
 
 ## Links
