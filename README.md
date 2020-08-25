@@ -28,6 +28,32 @@ Será avaliado a sua "qualidade de código" utilizando os seguintes critérios:
 - Qualidade de testes E2E.
 
 (Outros critérios ainda em desenvolvimento)
+
+---
+# Qual é o projeto?
+No Challenge 01, será desenvolvido a nossa própria plataforma de challenges, onde será possível cadastrar-se, ver os challenges ativos, registrar-se em challenges e ver a sua pontuação nos challenges atuais.
+## O portal contará com os módulos públicos: 
+- Cadastro
+- Login
+- Perfil 
+- Editar perfil
+- Configurações
+- Listar challenges ativos
+- Cadastrar-se em challenges ativos
+- Listar times
+- Cadastar time
+- Cadastrar-se em um time
+- Administrar time
+
+## Módulos de backoffice:
+- Cadastrar challenge
+- Administrar challenge
+- Administrar participantes dos challenges
+- Administrar times dos challenges
+- Gerenciar usuários cadastrados
+
+(Outros módulos ainda em desenvolvimento)
+
 ---
 # Ambientes
 ## DevOps
@@ -48,6 +74,19 @@ Será avaliado a sua "qualidade de código" utilizando os seguintes critérios:
 - NodeJS 12.18.X (ou mais recente)*
 - Yarn - CBC*
 - .env file*
+- Prettier*
+- Babel*
+- JWT*
+- Axios*
+
+(Outros critérios ainda em desenvolvimento)
+
+## Front-End Mobile
+- React Native*
+- Atomic Components*
+- Styled Components*
+- NodeJS 12.18.X (ou mais recente)*
+- Yarn - CBC*
 - Prettier*
 - Babel*
 - JWT*
