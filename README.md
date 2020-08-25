@@ -1,11 +1,13 @@
 # Challenge #01 - Work in Progress
-Aplicação em desenvolvimento ao challange. Acompanhe à partir de 09/2020 no canal http://twitch.tv/drafenous 
-Mais informações no twitter http://twitter.com/rodrigo_draf
+Aplicação em desenvolvimento ao challange. Acompanhe à partir de 09/2020 na twitch http://twitch.tv/drafenous 
+
+Mais informações no twitter http://twitter.com/rodrigo_draf ou via issues.
 
 ## Regras
 - Quem pode participar?
   - Todos os que chegarem à este repositório no github de alguma forma.
   - Todos que submeterem o seguindo as intruções abaixo.
+  - O desenvolvimento em time é permitido, porém você estará concorrendo com outros times para o balanceamento de pontuações.
 - Você deve seguir a estrutura base estabelecida neste challenge, utilizando as regras abaixo.
   - Os itens marcados com **"CBC"** (_Can be changed_) no final, não são opicionais, e sim que podem ser alterados por outro similar ao gosto do concorrente.
   - Os itens marcados com **"\*"** (_asterisco_), no final, são itens marcados como **obrigatórios**.
@@ -29,6 +31,10 @@ Será avaliado a sua "qualidade de código" utilizando os seguintes critérios:
 - GitHub*
 - Heroku*
 (Outros critérios ainda em desenvolvimento)
+
+## UI/UX
+- Figma*
+- FontAwesome*
 
 ## Front-End Web
 - ReactJS - CBC*
@@ -61,11 +67,25 @@ Será avaliado a sua "qualidade de código" utilizando os seguintes critérios:
 - MongoDB - CBC*
 - Nodemailer - CBC*
 (Outros critérios ainda em desenvolvimento)
+
+## Test / Quality Assurance
+- Cypress - CBC*
+(Outros critérios ainda em desenvolvimento)
 ---
 
+## Links
+**Formulário de participação**: a divulgar
+
+**Projeto do Figma**: a divulgar
+
+---
 # Datas
-Data de início de inscrição: a divulgar
-Data limite de inscrição: a divulgar
-Data de início do challenge: a divulgar
-Data finalização do challenge: a divulgar
-Data de divulgação de pontuações: a divulgar
+**Data de início de inscrição**: a divulgar
+
+**Data limite de inscrição**: a divulgar
+
+**Data de início do challenge**: a divulgar
+
+**Data finalização do challenge**: a divulgar
+
+**Data de divulgação de pontuações**: a divulgar
